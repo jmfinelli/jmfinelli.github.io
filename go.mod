@@ -1,5 +1,5 @@
 module jmfinelli.dev
 
-go 1.21.13
+go 1.23
 
-require github.com/jpanther/congo/v2 v2.9.0 // indirect
+require github.com/jpanther/congo/v2 v2.14.0 // indirect

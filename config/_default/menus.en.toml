@@ -48,12 +48,3 @@
     icon = "github"
     showName = true
     target = "_blank"
-
-[[footer]]
-  name = "Twitter/X"
-  url = "https://x.com/jmfinelli"
-  weight = 20
-  [footer.params]
-    icon = "x-twitter"
-    showName = true
-    target = "_blank"
